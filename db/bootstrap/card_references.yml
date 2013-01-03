@@ -2804,7 +2804,7 @@ card_references_351:
   created_at: 2012-12-05 11:16:24 Z
   updated_at: 2012-10-09 23:25:00 Z
   card_id: 66
-  referenced_name: /card/option/account_request
+  referenced_name: /card/options/account_request
   referenced_card_id: 
   link_type: W
 card_references_352: 

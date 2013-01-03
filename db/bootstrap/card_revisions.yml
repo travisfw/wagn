@@ -3169,7 +3169,7 @@ card_revisions_387:
   card_id: 66
   creator_id: 1
   content: |-
-    <p>People can&nbsp;<strong>sign up with no approval process</strong>&nbsp;if you allow "Anyone" to create both [[/card/option/Account_Request|account requests]] and &nbsp;[[*account+*right| +*account cards]].</p>
+    <p>People can&nbsp;<strong>sign up with no approval process</strong>&nbsp;if you allow "Anyone" to create both [[/card/options/Account_Request|account requests]] and &nbsp;[[*account+*right| +*account cards]].</p>
     <p>&nbsp;</p>
     <p>Newly registered users will be sent an email with a password and the following details:</p>
     <p>&nbsp;</p>
